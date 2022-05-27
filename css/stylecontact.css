@@ -1,0 +1,26 @@
+.c_main{
+    width: 100%;
+    background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(main1.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 50vh;
+}
+.c_hcontacts{
+	
+	float:left;
+	margin-left:500px;
+	margin-top:-60px;
+	color:white;
+}
+td{padding:10px;
+color:white;
+font-size:30px;
+font-style:bold;
+}
+div{
+		float:left;
+}
+.location{
+	margin-top:500px;
+	position:relative;
+	width:
